@@ -1,5 +1,3 @@
 ### TEST
 
-
-
-[Link](url) and ![Image](src)
+[Link](https://www.yahoo.com/)
